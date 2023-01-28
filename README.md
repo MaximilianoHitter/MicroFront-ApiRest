@@ -3,3 +3,5 @@ Dos pequeños proyectos, una Api con una base de datos simple que permite recibi
 
 Api- para realizar la api he utilizado php y un micro-framework llamado Flight, junto con mariaDB/MySQL para la base de datos. Se ha utilizado Composer para instalar el framework.
 Front- para realizar la app de front he utilizado html, php y js.. junto con JQuery, BootStrap y DataTables.
+
+Para cargar los dos proyectos se ha utilizado WampServer y para ver la respuesta de las peticiones se ha utilizado una extension de vscode llamada Thunder Client.
